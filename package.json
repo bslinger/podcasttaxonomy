@@ -1,0 +1,10 @@
+{
+  "name": "podcasttaxonomy",
+  "version": "1.0.0",
+  "description": "Podcast Taxonomy is an international, multidisciplinary collaborative standard for recognizing roles and credits in podcast production. It consists of a list of roles and credits, and their description.",
+  "main": "index.js",
+  "repository": "git@github.com:podcasttaxonomy/podcasttaxonomy.git",
+  "author": "Podcast Taxonomy",
+  "license": "MIT",
+  "private": false
+}
